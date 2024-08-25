@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saiashirwad/base.git"
+    "url": "git+https://github.com/saiashirwad/slommy.git"
   },
   "author": "Sai Ashirwad <saiashirwadr@gmail.com>",
   "type": "module",
@@ -34,9 +34,9 @@
   },
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/saiashirwad/base/issues"
+    "url": "https://github.com/saiashirwad/slommy/issues"
   },
-  "homepage": "https://github.com/saiashirwad/base#readme",
+  "homepage": "https://github.com/saiashirwad/slommy#readme",
   "trustedDependencies": [
     "@biomejs/biome"
   ]
